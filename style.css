@@ -24,3 +24,36 @@
     color: white;
     margin-top: 13px;
 }
+
+/* Categories section */
+.cat1, .cat2, .cat3{
+    border-radius: 7px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: deepskyblue;
+}
+
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 35%;
+}
+
+/* Shoes section */
+
+.shoes .buy-now-btn{
+    padding: 7px 14px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
