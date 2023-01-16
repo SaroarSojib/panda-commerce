@@ -57,3 +57,8 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+
+/* Footer Section */
+footer .container{
+    height: 400px;
+}
